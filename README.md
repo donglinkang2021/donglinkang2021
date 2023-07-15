@@ -31,7 +31,7 @@ Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 20
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Huawei-nova8pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)
 ![](https://img.shields.io/badge/Lenovo-XiaoXinPro_14-E2231A?style=flat-square&logo=lenovo&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/donglinkang2021)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]([https://steamcommunity.com/id/donglinkang2021](https://steamcommunity.com/profiles/76561199203296493/))
 
 
 ## 📫 How to reach me: 
