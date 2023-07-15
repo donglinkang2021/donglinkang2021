@@ -1,6 +1,6 @@
-# Hi!:wave:
+# :wave: Hi! I'm Linkang Dong(董林康)
 
-Here is Linkang Dong(董林康), undergraduate from BIT (Beijing Institute of Technology), major in CS.
+Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 2021/09 ~ Now.
 
 + 👀I’m interested in Computer Vision, Natural Language Process, Visualization of deep learning or machine learning, building interesting application.
 + :keyboard:Skilled Languages: 
@@ -12,18 +12,15 @@ Here is Linkang Dong(董林康), undergraduate from BIT (Beijing Institute of Te
 + 🌱 I’m currently learning the course of Andrew Ng on Coursera.
 + ✨Hobbies: :basketball:basketball :guitar: guitar :swimming_man: swim :video_game: pvp
 + 💞️ I’m looking to collaborate on building some useful and interesting AI APP.
-+ 🎈 others: 
+  
+## 📫 How to reach me: 
+  + linkdom2021@gmail.com
+  + donglinkang2021@163.com
   + technical blog: https://www.cnblogs.com/Linkdom/
   + daily blog: [linkdom (donglinkang2021.github.io)](https://donglinkang2021.github.io/linkdom.github.io/)
   + bilibili: [no-stay-up-late_xiaokang_bilibili](https://space.bilibili.com/531177225)
-+ 📫 How to reach me: 
-  + linkdom2021@gmail.com
-  + donglinkang2021@163.com
 
-
----
-
-Never stop programing🥺 && Keep learning new knowledge😋
+## 🥺Never stop programing && Keep learning new knowledge😋
 
 <html>
 
