@@ -12,7 +12,7 @@ Here is Linkang Dong(董林康), undergraduate from BIT (Beijing Institute of Te
 + 🌱 I’m currently learning the course of Andrew Ng on Coursera.
 + ✨Hobbies: :basketball:basketball :guitar: guitar :swimming_man: swim :video_game: pvp
 + 💞️ I’m looking to collaborate on building some useful and interesting AI APP.
-+ 🎈:
++ 🎈 others: 
   + technical blog: https://www.cnblogs.com/Linkdom/
   + blog of diary: [linkdom (donglinkang2021.github.io)](https://donglinkang2021.github.io/linkdom.github.io/)
   + bilibili: [熬大夜的小康同学_bilibili](https://space.bilibili.com/531177225)
