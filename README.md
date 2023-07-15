@@ -1,6 +1,6 @@
 # :wave: Hi! I'm Linkang Dong(董林康)
 
-Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 2021/09 ~ Now.
+Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 2021/08 ~ Now.
 
 + 👀I’m interested in Computer Vision, Natural Language Process, Visualization of deep learning or machine learning, building interesting application.
 + 🌱 I’m currently learning the course of Andrew Ng on Coursera.
