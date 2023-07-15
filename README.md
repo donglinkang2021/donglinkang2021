@@ -14,7 +14,7 @@ Here is Linkang Dong(董林康), undergraduate from BIT (Beijing Institute of Te
 + 💞️ I’m looking to collaborate on building some useful and interesting AI APP.
 + 🎈 others: 
   + technical blog: https://www.cnblogs.com/Linkdom/
-  + blog of diary: [linkdom (donglinkang2021.github.io)](https://donglinkang2021.github.io/linkdom.github.io/)
+  + daily blog: [linkdom (donglinkang2021.github.io)](https://donglinkang2021.github.io/linkdom.github.io/)
   + bilibili: [no-stay-up-late_xiaokang_bilibili](https://space.bilibili.com/531177225)
 + 📫 How to reach me: 
   + linkdom2021@gmail.com
