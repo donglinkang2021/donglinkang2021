@@ -23,7 +23,7 @@ Here is Linkang Dong(董林康), undergraduate from BIT (Beijing Institute of Te
 
 ---
 
-Never stop programing🥺&&keep learning new knowledge😋
+Never stop programing🥺 && Keep learning new knowledge😋
 
 <html>
 
