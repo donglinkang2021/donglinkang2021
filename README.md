@@ -20,12 +20,14 @@ Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 20
 ![](https://img.shields.io/badge/-Matlab-3776AB?style=flat-square&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Masm32-000000?style=flat-square&logo=windows&logoColor=FFFFFF)
  
 - ![](https://img.shields.io/badge/-Intellij_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-VS2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Drawio-F08705?style=flat-square&logo=diagramsdotnet&logoColor=FFFFFF)
 
 - ![](https://img.shields.io/badge/-Win10-0078D6?style=flat-square&logo=windows&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=FFFFFF)
