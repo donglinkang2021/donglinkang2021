@@ -49,10 +49,9 @@ Undergraduate from BIT (Beijing Institute of Technology), major in CS, ⏱️ 20
 
 <div align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=donglinkang2021&show_icons=true&theme=transparent" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglinkang2021&hide=html&theme=transparent" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglinkang2021&hide=html,jupyter%20notebook&theme=transparent" />
 </div>
 
 </html>
-
 
 
