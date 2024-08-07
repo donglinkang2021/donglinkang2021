@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/build-passing-brightgreen">
 <img src="https://img.shields.io/badge/keep-learning-blue">
 <img src="https://img.shields.io/badge/never%20stop-programing-8A2BE2">
+<img src="https://komarev.com/ghpvc/?username=donglinkang2021&color=ff69b4&style=flat-square&abbreviated=true">
 </div>
 
 Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 ~ Now.
@@ -43,9 +44,11 @@ Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 
   + donglinkang2021@163.com
   + linkdom2021@gmail.com
 
+## 📈 GitHub Stats 
+
 <html>
 <div align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=donglinkang2021&show_icons=true&theme=transparent" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglinkang2021&hide=html,jupyter%20notebook&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=donglinkang2021&theme=transparent" width="52%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglinkang2021&hide=html,jupyter%20notebook&theme=transparent&layout=compact" width="41%"/>
 </div>
 </html>
