@@ -1,10 +1,11 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=donglinkang2021&color=ff69b4&style=for-the-badge&abbreviated=true&label=profile+views">
+
 # 👋 Hi! I'm Linkang Dong(董林康)
 
 <div align=center>
 <img src="https://img.shields.io/badge/build-passing-brightgreen">
 <img src="https://img.shields.io/badge/keep-learning-blue">
 <img src="https://img.shields.io/badge/never%20stop-programing-8A2BE2">
-<img src="https://komarev.com/ghpvc/?username=donglinkang2021&color=ff69b4&style=flat-square&abbreviated=true">
 </div>
 
 Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 ~ Now.
@@ -52,3 +53,4 @@ Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglinkang2021&hide=html,jupyter%20notebook&theme=transparent&layout=compact" width="41%"/>
 </div>
 </html>
+
