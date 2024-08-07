@@ -30,14 +30,13 @@ Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 
 
 
 <div align=center>
-<img src="https://img.shields.io/badge/-Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Drawio-F08705?style=flat-square&logo=diagramsdotnet&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF">
 <a href="https://steamcommunity.com/profiles/76561199203296493/"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff"></a>
 </div>
 
