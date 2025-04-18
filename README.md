@@ -11,7 +11,7 @@
 Undergraduate from Beijing Institute of Technology, major in CS, ⏱️ 2021/08 ~ Now.
 
 + 🤗 I’m interested in RL4LLM and Embodied AI currently.
-+ 🚀 I love simple, general and minimal->deep models, let them learning on large dataset, and building interesting APP.
++ 🚀 I love simple, general and minimal->deep models, learning on large dataset, and building interesting APP.
 + 🌱 I’m currently reading Ilya-30u30 list.
 + ✨ Hobbies:
 <span title="从小打到大">🏀</span>
